@@ -6,8 +6,8 @@ highlighter: 'pygments'
 #paginate: 8
 permalink: /:title
 
-name: “Hack&Code”
-title: Hack&Code
+name: “Hack Code”
+title: Hack Code
 description: Everything about hack&code.
 url: http://m12redx.github.io
 feed: /atom.xml
