@@ -7,8 +7,8 @@ highlighter: 'pygments'
 permalink: /:title
 
 name: “Mukosame's Blog”
-title: Mukosame's blog
+title: Hack&Code
 description: Everything about Mukosame.
 url: http://m12redx.github.io
 feed: /atom.xml
-author_info: <a href="http://m12redx.github.io/">Mukosame</a>
+author_info: <a href="http://m12redx.github.io/">Hack Code</a>
